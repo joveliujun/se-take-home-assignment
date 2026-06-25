@@ -7,7 +7,6 @@ bin/
 *.dylib
 
 # Test binary
-*.test
 
 # Output of go coverage
 *.out
